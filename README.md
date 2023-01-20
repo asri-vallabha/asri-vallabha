@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm SRI VALLABHA ANNAREDDY</h1>
 <h3 align="center">A Front End Developer with expertise in Web Development, who has recently found a certain fascination towards MERN Stack Development. A determined professional who would love to explore and work with the latest technologies that the industry has to offer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asri-vallabha&label=Profile%20views&color=0e75b6&style=flat" alt="asri-vallabha" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asri-vallabha" alt="asri-vallabha" /></a> </p>
+
 - 🌱 I’m currently learning **Nodejs and Redux**
 
 - 👯 I’m looking to collaborate on **projects where Javascript(Full Stack) is predominantly used.**
